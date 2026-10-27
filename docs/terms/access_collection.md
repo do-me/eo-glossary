@@ -16,7 +16,7 @@ A collection of AIPs that is defined by a Collection Description but for which t
 
 ### Notes
 
-Tastes
+Tastes, some amendment here
 
 ### Examples
 
